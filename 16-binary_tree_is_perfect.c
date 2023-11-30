@@ -34,17 +34,13 @@ int tree_is_perfect(const binary_tree_t *tree)
  */
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {
-<<<<<<< HEAD
 
 	int balance;
-=======
 	int result = 0;
->>>>>>> bf1995e16f9a89e814cb1baba5962bb898b77d32
 
 	if (tree == NULL)
 	{
 		return (0);
-<<<<<<< HEAD
 
 	balance = binary_tree_balance(tree);
 	if (balance != 0)
@@ -58,7 +54,6 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 				binary_tree_is_perfect(tree->right));
 
 	return (1);
-=======
 	}
 	else
 	{
@@ -69,6 +64,4 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 		}
 		return (0);
 	}
->>>>>>> bf1995e16f9a89e814cb1baba5962bb898b77d32
 }
-
