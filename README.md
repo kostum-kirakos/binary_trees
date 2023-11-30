@@ -38,8 +38,6 @@ File Name|Task Name|Task Description
 [16-binary_tree_is_perfect.c](https://github.com/MAZTRO/binary_trees/blob/master/16-binary_tree_is_perfect.c)|16. Is perfect|Write a function that checks if a binary tree is perfect
 [17-binary_tree_sibling.c](https://github.com/MAZTRO/binary_trees/blob/master/17-binary_tree_sibling.c)|17. Sibling|Write a function that finds the sibling of a node
 [18-binary_tree_uncle.c](https://github.com/MAZTRO/binary_trees/blob/master/18-binary_tree_uncle.c)|18. Uncle|Write a function that finds the uncle of a node
-[100-binary_trees_ancestor.c](https://github.com/MAZTRO/binary_trees/blob/master/100-binary_trees_ancestor.c)|19. Lowest common ancestor|Write a function that finds the lowest common ancestor of two nodes
-
 
 ## Author
 
